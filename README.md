@@ -3,4 +3,4 @@ This project is all about creating a graphical user interface of Restaurant Mana
 
 **You can see the video demo here: [https://youtu.be/yLNGhHCE9l4](https://youtu.be/yLNGhHCE9l4)**
 
-[Click here to setup the application](https://github.com/LiteshGhute/Restaurant-Management-System-Using-Python-and-Sqlite/blob/main/Report.pdf)
+[Click here to view the application details](https://github.com/LiteshGhute/Restaurant-Management-System-Using-Python-and-Sqlite/blob/main/Report.pdf)
